@@ -1,0 +1,70 @@
+
+
+   Modelo de Gestión de Activos
+
+Este repositorio contiene un modelo de gestión de activos implementado en Python utilizando TensorFlow, scikit-learn y criptografía AES. 
+El modelo se enfoca en la toma de decisiones financieras y utiliza técnicas de aprendizaje automático para clasificar el riesgo de los activos.
+
+
+   Funcionalidades
+
+- Carga de datos de activos desde un archivo CSV.
+- Preprocesamiento de datos para entrenamiento y prueba.
+- Entrenamiento de un modelo de redes neuronales para clasificar el riesgo de los activos.
+- Evaluación del rendimiento del modelo utilizando métricas de precisión.
+- Visualización del valor de los activos en el tiempo.
+- Cifrado y descifrado de datos utilizando el algoritmo AES.
+
+
+   Requisitos
+
+- Python 3.x
+- TensorFlow
+- pandas
+- scikit-learn
+- matplotlib
+- pycryptodome
+
+
+   Instrucciones de Uso
+
+1. Clona el repositorio:
+
+   ```
+   git clone https://github.com/tu-usuario/modelo-gestion-activos.git
+   ```
+
+2. Instala las dependencias:
+
+   ```
+   pip install -r requirements.txt
+   ```
+
+3. Coloca tus datos de activos en un archivo CSV llamado `datos_activos.csv` en el directorio raíz del proyecto.
+
+4. Ejecuta el script principal para entrenar y evaluar el modelo:
+
+   ```
+   python main.py
+   ```
+
+5. Verás la precisión del modelo y se generará una gráfica que muestra el valor de los activos en el tiempo.
+
+
+   Contribución
+
+Si deseas contribuir a este proyecto, puedes enviar un pull request con tus mejoras, correcciones de errores o nuevas funcionalidades. 
+Asegúrate de seguir las mejores prácticas de desarrollo y agregar pruebas relevantes cuando sea necesario.
+
+
+   Licencia
+
+Este proyecto está licenciado bajo [MIT License](LICENSE).
+
+
+   Contacto
+
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de mi dirección de correo electrónico: 
+[Richardlisongarcia@gmail.com].
+
+
