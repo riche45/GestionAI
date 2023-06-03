@@ -31,7 +31,7 @@ El modelo se enfoca en la toma de decisiones financieras y utiliza técnicas de 
 1. Clona el repositorio:
 
    ```
-   git clone https://github.com/tu-usuario/modelo-gestion-activos.git
+   git clone https://github.com/riche45/GestionAI
    ```
 
 2. Instala las dependencias:
